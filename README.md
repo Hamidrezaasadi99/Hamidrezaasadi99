@@ -21,7 +21,8 @@ traffic simulation.
 
 ## Featured Projects
 
-- [Smart Road Traffic Simulation](https://github.com/Hamidrezaasadi99/smart-road-traffic-simulation)- Adaptive Cruise Control
+- [Smart Road Traffic Simulation](https://github.com/Hamidrezaasadi99/smart-road-traffic-simulation)-
+-  Adaptive Cruise Control
 - Autonomous Lawn Mower Concept Design
 - Sensor Data Fusion using STM32 and MATLAB
 - Machine Learning for Biofuel Property Prediction
