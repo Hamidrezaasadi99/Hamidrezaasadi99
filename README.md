@@ -22,12 +22,9 @@ traffic simulation.
 ## Featured Projects
 
 - [Smart Road Traffic Simulation](https://github.com/Hamidrezaasadi99/smart-road-traffic-simulation)-
--  - [Adaptive Cruise Control using Simulink](https://github.com/Hamidrezaasadi99/adaptive-cruise-control-simulink)l
-- Autonomous Lawn Mower Concept Design
-- Sensor Data Fusion using STM32 and MATLAB
+- [Adaptive Cruise Control using Simulink](https://github.com/Hamidrezaasadi99/adaptive-cruise-control-simulink)l
+- [Autonomous Lawn Mower Concept Design](https://github.com/Hamidrezaasadi99/autonomous-lawn-mower-concept-design)
 - Machine Learning for Biofuel Property Prediction
-- Image Processing and Deep Learning Projects
-
 ## Currently Learning
 
 - Autonomous Driving Technologies
