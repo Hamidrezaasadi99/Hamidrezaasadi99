@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Hamidreza Asadi 👋
 
-<!--
-**Hamidrezaasadi99/Hamidrezaasadi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an MSc student in Autonomous Vehicle Engineering at the
+University of Naples Federico II.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in autonomous driving, intelligent transportation
+systems, vehicle control, machine learning, sensor fusion, and
+traffic simulation.
+
+## Technical Skills
+
+- Programming: Python, MATLAB, C, Java
+- Embedded Systems: STM32
+- Simulation: Eclipse MOSAIC, SUMO, MATLAB/Simulink
+- Machine Learning and Deep Learning
+- Image Processing and Computer Vision
+- Vehicle Control Systems
+- Sensor Data Fusion
+
+## Featured Projects
+
+- Smart Road and Traffic Management Simulation
+- Adaptive Cruise Control
+- Autonomous Lawn Mower Concept Design
+- Sensor Data Fusion using STM32 and MATLAB
+- Machine Learning for Biofuel Property Prediction
+- Image Processing and Deep Learning Projects
+
+## Currently Learning
+
+- Autonomous Driving Technologies
+- Embedded Systems
+- Advanced Vehicle Control
+- Intelligent Transportation Systems
+
+## Contact
+
+- Location: Naples, Italy
+- LinkedIn: https://www.linkedin.com/in/hamidreza-asadi-43690a28a/
